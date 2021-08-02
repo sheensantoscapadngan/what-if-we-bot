@@ -4,8 +4,8 @@ A discord bot for improving idea generation within a team
 ---
 Techstack:
 
--Typescript
--Firestore
+- Typescript
+- Firestore
 
 
 ---
